@@ -1,0 +1,67 @@
+Logging in build 2017.0.2.60 started at: Mon Jul 10 14:15:57 2017
+========================================
+[00:00:34.187] 14:16:31.824 | Trying to open file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website-1.muse with size:7176192 mod Date:Thu May 11 11:58:57 GMT+1000 2017
+[00:00:34.203] 14:16:31.841 | Opening file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website-1.muse' with status:success size:7176192 mod Date:Thu May 11 11:58:57 GMT+1000 2017 highestUID: 1368
+[00:01:17.421] 14:17:15.060 | quitWithUI:Quitting Application. Called by: 
+[00:01:18.343] 14:17:15.988 | Quitting Application after 1.2 minutes. Called by: 
+[00:01:22.296] Logging shutdown normally
+
+==========
+Logging ended at: Mon Jul 10 14:17:21 2017
+
+Logging in build 2017.0.2.60 started at: Mon Jul 10 14:17:29 2017
+========================================
+Logging in build 2017.0.2.60 started at: Mon Jul 10 14:17:30 2017
+========================================
+
+==========
+Logging ended at: Mon Jul 10 14:17:31 2017
+
+[00:00:12.328] 14:17:41.904 | Trying to open file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website Test.muse with size:4063232 mod Date:Thu Jun 22 11:56:53 GMT+1000 2017
+[00:00:12.328] 14:17:41.909 | Opening file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website Test.muse' with status:success size:4063232 mod Date:Thu Jun 22 11:56:53 GMT+1000 2017 highestUID: 474
+[00:00:12.406] 14:17:41.985 | Trying to open file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse with size:2195456 mod Date:Tue Jun 27 09:39:30 GMT+1000 2017
+[00:00:12.406] 14:17:41.989 | Opening file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' with status:success size:2195456 mod Date:Tue Jun 27 09:39:30 GMT+1000 2017 highestUID: 240
+[00:02:47.109] 14:20:16.691 | HTMLExport Assessment Website(1 pages) to 'www.markel.com' completed with 0 warnings.
+[03:27:29.328] 17:44:58.899 | quitWithUI:Quitting Application. Called by: 
+[03:27:30.141] 17:44:59.721 | Quitting Application after 207.4 minutes. Called by: 
+[03:27:33.438] Logging shutdown normally
+
+==========
+Logging ended at: Mon Jul 10 17:45:03 2017
+
+Logging in build 2017.0.2.60 started at: Wed Jul 19 10:06:18 2017
+========================================
+[00:01:00.984] 10:07:23.112 | Trying to open file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website Test.muse with size:4063232 mod Date:Thu Jun 22 11:56:53 GMT+1000 2017
+[00:01:01.000] 10:07:23.130 | Opening file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Website Test.muse' with status:success size:4063232 mod Date:Thu Jun 22 11:56:53 GMT+1000 2017 highestUID: 474
+[00:01:56.922] 10:08:19.055 | Trying to open file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse with size:2195456 mod Date:Tue Jun 27 09:39:30 GMT+1000 2017
+[00:01:56.937] 10:08:19.069 | Opening file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' with status:success size:2195456 mod Date:Tue Jun 27 09:39:30 GMT+1000 2017 highestUID: 240
+[00:02:48.516] 10:09:10.652 | HTMLExport Assessment Website(1 pages) to 'www.markel.com' completed with 0 warnings.
+[00:10:36.500] 10:16:58.633 | DataError:91025 at 
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+[00:11:56.469] 10:18:18.611 | DataError:91025 at 
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+IntervalMgr::Interval::Fire called during dispatchEvent of event complete
+[00:19:46.016] 10:26:08.151 | Beginning Save for file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' highest UID:336
+[00:19:47.266] 10:26:09.399 | Save complete for file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' file size:5603328 mod Date:Wed Jul 19 10:26:08 GMT+1000 2017 highest UID:336
+[00:21:20.281] 10:27:42.426 | HTMLExport Assessment Website(1 pages) to 'www.markel.com' completed with 0 warnings.
+[00:27:45.859] 10:34:07.989 | Beginning Save for file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' highest UID:342
+[00:27:46.984] 10:34:09.121 | Save complete for file 'C:\Users\Christian Di Giorgi\Documents\School\Multimedia\Muse\Assessment Website.muse' file size:5668864 mod Date:Wed Jul 19 10:34:08 GMT+1000 2017 highest UID:342
+[00:27:53.656] 10:34:15.788 | quitWithUI:Quitting Application. Called by: 
+[00:27:54.406] 10:34:16.542 | Quitting Application after 27.6 minutes. Called by: 
+[00:27:59.484] Logging shutdown normally
+
+==========
+Logging ended at: Wed Jul 19 10:34:22 2017
+
